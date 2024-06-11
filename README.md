@@ -7,7 +7,7 @@ For this game you want to turn on all of the lights before the timer runs out. Y
 Inputs for this game include:
 -Pressing buttons
 -Flicking the switch
--Light sensor
+-Light sensor (bright light will be needed)
 -Temperature sensor
 -Moisture sensor (Nail and alligator clip not needed)
 -Acceleromoter
